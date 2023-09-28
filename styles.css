@@ -25,6 +25,7 @@
     background-color: #04b6b3;
     padding: 10px;
     border-radius: 5px;
+    font-size: 18px;
 }
 .general-info {
     grid-column-start: 2;
